@@ -62,7 +62,7 @@ Full sample application built with Angular 9 that follows all steps of [Angular 
 
 ## Acknowledgments
 
-- Design was inspired by preexisting projects of [Colorlib](https://colorlib.com) and [SB Admin](http://startbootstrap.com/templates/sb-admin/).
+- Design was inspired by pre existing projects of [Colorlib](https://colorlib.com) and [SB Admin](http://startbootstrap.com/templates/sb-admin/).
 
 ## screen-shots
 
