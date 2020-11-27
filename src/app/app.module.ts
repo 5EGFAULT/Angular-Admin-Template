@@ -19,7 +19,7 @@ import { AuthLazyLoadRoutes } from 'src/configs/lazy-load-routing/authLazyLoadRo
     BrowserModule,
     NgbModule,
     HttpClientModule,
-    RouterModule.forRoot(AuthLazyLoadRoutes, { useHash: true }),
+    RouterModule.forRoot(AuthLazyLoadRoutes, { useHash: true, relativeLinkResolution: 'legacy' }),
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: environment.PRODUCTION,
     }),
